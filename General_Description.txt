@@ -1,0 +1,20 @@
+<#
+.DESCRIPTION
+This is a script for finding old snaps and trash them
+#>
+#================================================================================
+#
+#          FILE: prune_old_snaps.ps1
+# 
+#         USAGE: ./prune_old_snaps.ps1 
+# 
+#   DESCRIPTION: With this script you can find old snapshots on a Cmode filer and trash them
+# 
+#       OPTIONS: ---
+#  REQUIREMENTS: ---
+#          BUGS: ---
+#         NOTES: This needs dataontap module
+#        AUTHOR: Masoud Fereidonian
+#  ORGANIZATION: -
+#       CREATED: 11/10/2017 
+#===============================================================================
